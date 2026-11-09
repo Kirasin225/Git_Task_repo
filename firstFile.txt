@@ -6,5 +6,5 @@ firstFile line 5
 firstFile line 6
 firstFile line 7
 firstFile line 8
-firstFile line 9
-firstFile line 10
+firstFile 9
+firstFile 10
