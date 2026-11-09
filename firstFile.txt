@@ -2,8 +2,8 @@ firstFile line 1
 firstFile line 2
 firstFile line 3
 firstFile line 4
-firstFile line 5
-firstFile line 6
+firstFile 5
+firstFile 6
 firstFile 7
 firstFile 8
 firstFile 9
